@@ -1,7 +1,7 @@
 # SQL
 This repository contains some complex, nested queries and important concepts of SQL using different kind of enormous data.
 
-1. SQLCovidData.sql
+**1. SQLCovidData.sql
 - There are two tables used for designing queries i.e. CovidDeaths and CovidVaccinations.
 
 - CovidDeaths contain following columns: 
@@ -15,3 +15,7 @@ This repository contains some complex, nested queries and important concepts of 
 -   ![CovidVaccineColumn2](https://user-images.githubusercontent.com/71366844/147891396-ee6ef614-4ebc-4d3d-b45a-d80522db4232.png)
 
 - Written down some queries using some columns from both the tables to get some useful information.
+
+
+**2. DataCleaninginSQL.sql
+- Used NashvilleHousing data to showcase some data cleaning techniques. 
